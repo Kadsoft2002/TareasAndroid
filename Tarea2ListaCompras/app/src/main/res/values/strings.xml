@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarea #2 Lista de Compras</string>
+
+    <string name="add_new_item">Agregar Nuevo Item</string>
+    <string name="description">Item: </string>
+    <string name="amount">Cantidad: </string>
+    <string name="price">Precio: </string>
+    <string name="total">Total: </string>
+    <string name="unit_price">Precio Unitario: </string>
+    <string name="item_name">Nombre del Articulo: </string>
+    <string name="save">Guardar</string>
+
+</resources>

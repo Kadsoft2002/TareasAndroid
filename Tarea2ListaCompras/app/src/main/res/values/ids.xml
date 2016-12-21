@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_view" type="id"/>
+    <item name="add_btn" type="id"/>
+
+    <item name="total" type="id"/>
+    <item name="description" type="id" />
+    <item name="amount" type="id" />
+    <item name="price" type="id" />
+
+    <item name="editDescription" type="id" />
+    <item name="editAmount" type="id" />
+    <item name="editPrice" type="id" />
+    <item name="save_btn" type="id"/>
+
+</resources>
