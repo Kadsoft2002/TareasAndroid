@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea3 Paginacion Retrofit</string>
+    <string name="movie_name">Name: %s</string>
+    <string name="movie_year">Year: %s</string>
+
+    <string name="button_left"> &lt;</string>
+    <string name="button_search">Search</string>
+    <string name="button_right">&gt;</string>
+</resources>
